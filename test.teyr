@@ -1,1 +1,10 @@
-return 0;
+class Program
+{
+    static int Main()
+    {
+        var x = 5;
+        int y = 10;
+        int result = x + y * 2;
+        return result;
+    }
+}
